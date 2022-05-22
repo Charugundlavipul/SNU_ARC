@@ -17,7 +17,7 @@ SNU ARC is a web portal which is specifically designed to cover basic needs of u
 ![Profile Change](https://user-images.githubusercontent.com/65329637/169684797-8676cc84-ac61-4bfd-bf32-a5ca5bc471b2.png)
 
 ## User Payments
-![Profile Change](https://user-images.githubusercontent.com/65329637/169684809-8fd87910-13fa-416a-a2b4-619c14a6506c.png)
+![Due_Payment](https://user-images.githubusercontent.com/65329637/169685063-f2dbc20c-7fcd-4432-a809-45fdbf701560.png)
 
 # Admin End
 ## Home Page
