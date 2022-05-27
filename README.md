@@ -40,3 +40,5 @@ SNU ARC is a web portal which is specifically designed to cover basic needs of u
 ## Approval Status
 ![Approvals](https://user-images.githubusercontent.com/65329637/169684937-26a30c0c-0f87-42c6-9161-fabbf75253d4.png)
 
+# Steps to Launch
+Download sunarc (1).sql and rename it to snuarc.sql, Import the database into phpmyadmin (preferably use XAMPP as local server) and add all the files to htdocs of xampp in C.
